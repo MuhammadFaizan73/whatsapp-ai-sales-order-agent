@@ -1,0 +1,2 @@
+DESC='Daily WhatsApp broadcast to retail shops plus an AI agent that takes orders, shares the catalog and emails orders to the team'
+TOPICS=n8n,ai-agent,whatsapp-bot,sales-automation,order-management,openai,b2b

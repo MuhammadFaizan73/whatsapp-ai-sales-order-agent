@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B1220"/><stop offset="1" stop-color="#111827"/></linearGradient>
+ <linearGradient id="ac" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#F59E0B"/><stop offset="1" stop-color="#EF4444"/></linearGradient>
+ <radialGradient id="glow" cx="0.85" cy="0.2" r="0.6"><stop offset="0" stop-color="#F59E0B" stop-opacity="0.35"/><stop offset="1" stop-color="#F59E0B" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity="0.04"/></pattern>
+</defs>
+<rect width="1280" height="320" rx="18" fill="url(#bg)"/>
+<rect width="1280" height="320" rx="18" fill="url(#grid)"/>
+<rect width="1280" height="320" rx="18" fill="url(#glow)"/>
+<rect x="60" y="52" width="194" height="30" rx="15" fill="url(#ac)" fill-opacity="0.2" stroke="url(#ac)"/>
+<text x="157" y="72" text-anchor="middle" font-size="13" font-weight="700" fill="#F8FAFC" letter-spacing="1">AI SALES AGENT · N8N</text>
+<text x="60" y="142" font-size="54" font-weight="800" fill="#F8FAFC">WhatsApp AI Sales &amp; Order Agent</text>
+<rect x="60" y="156" width="120" height="5" rx="2.5" fill="url(#ac)"/>
+<text x="60" y="185" font-size="21" fill="#CBD5E1">Daily WhatsApp broadcast to retail shops plus an AI agent that takes</text><text x="60" y="215" font-size="21" fill="#CBD5E1">orders, shares the catalog and emails orders to the team</text>
+<rect x="60" y="250" width="41" height="34" rx="17" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.18"/><text x="81" y="272" text-anchor="middle" font-size="14" fill="#E2E8F0" font-weight="600">n8n</text><rect x="111.2" y="250" width="66" height="34" rx="17" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.18"/><text x="144" y="272" text-anchor="middle" font-size="14" fill="#E2E8F0" font-weight="600">OpenAI</text><rect x="187.60000000000002" y="250" width="117" height="34" rx="17" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.18"/><text x="246" y="272" text-anchor="middle" font-size="14" fill="#E2E8F0" font-weight="600">WhatsApp API</text><rect x="314.40000000000003" y="250" width="83" height="34" rx="17" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.18"/><text x="356" y="272" text-anchor="middle" font-size="14" fill="#E2E8F0" font-weight="600">Supabase</text><rect x="407.6" y="250" width="125" height="34" rx="17" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.18"/><text x="470" y="272" text-anchor="middle" font-size="14" fill="#E2E8F0" font-weight="600">Google Sheets</text>
+<text x="1220" y="296" text-anchor="end" font-size="14" fill="#64748B">Built by Muhammad Faizan · Rootocloud</text>
+</svg>
